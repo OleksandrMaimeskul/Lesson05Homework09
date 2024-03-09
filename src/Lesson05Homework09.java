@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Lesson05Homework09 {
     public static void main(String[] args) {
         Random random = new Random();
-        int pcNumber = random.nextInt(10 + 1);
+        int pcNumber = random.nextInt(11 );
         int totalAttempts = 3;
 
         Scanner scanner = new Scanner(System.in);
